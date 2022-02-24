@@ -1,0 +1,13 @@
+O que e Git?
+Git é um sistema de controle da versão de arquivos. Podemos desenvolver os mesmos projetos através de pessoas que podem contribuir simultaneamente no mesmo, 
+e criar novos arquivos e permitir que os mesmos possam existir sem o risco de suas diversas alterações serem sobrescritas.
+Git e uma ferramenta que foi desenvolvida em 2005 por Linus Torvalds, cujo o seu objetivo seria criar uma ferramenta utilizada para controlar historicos de alteraçõesde arquivos e principalmente de projetos de desenvolvimento de software.
+Nos permitindo ter mais flexibilidade no fluxo de trabalho, segurança e desempenho.
+
+LINK PARA DOWLOADS: https://git-scm.com/downloads
+
+O que e GitHub?
+Uma plataforma criada por Thomas Dohmke, cujo o objetivo seria a hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+Também serve como uma comunidade para programadores do mundo todo colaborarem em projetos pessoais e de código-aberto.
+
+LINK PARA LOGIN: https://github.com/
